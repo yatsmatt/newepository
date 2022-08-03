@@ -1,0 +1,24 @@
+.Beforfooter{
+    background-color: rgba(158, 160, 160, 0.774);
+    display: flex;
+    flex-direction: column;
+  
+}
+
+.info-windows{
+    align-items: center;
+    background-color:rgb(180, 118, 3) ;
+    padding: 50px;
+    border-radius: 50px;
+    margin: 10px 10px 10px 10px ;
+    color:  rgb(39, 38, 38);
+    text-align: center;
+    cursor: pointer;
+    
+}
+.info-windows:hover{
+    background-color: rgb(39, 38, 38);
+    color:   rgb(180, 118, 3);
+   
+    
+}

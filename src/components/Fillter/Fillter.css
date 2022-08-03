@@ -1,0 +1,82 @@
+.fillter{
+    position: relative;
+    flex: 0.5;
+    background-color: rgb(39, 38, 38);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 10px ;
+    color: rgb(180, 118, 3);
+    text-align: center;
+}
+.select-fillter{
+    padding: 1px;
+    background-color: aliceblue;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+    cursor: pointer;
+}
+.price{
+    padding: 1px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+    cursor: text;
+}
+.fil-comp{
+    margin: 15px;
+    border: 0p  x solid;
+    border-radius: 5px;
+}
+button{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    padding: 8px 8px;
+    background-color: whitesmoke;
+    transition: all 0.3s ease 0s;
+    border: none;
+    border-radius: 15px;
+    transition: all 0.3s  ease 0s;
+}
+button:hover{
+    background-color: rgb(180, 118, 3);
+    color: white;
+    transition: all 0.3s  ease 0s;
+}
+button:active{
+    background-color: rgb(180, 118, 3);
+    color: white; 
+}
+.but-remove{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    background-color: whitesmoke;
+    transition: all 0.3s ease 0s;
+    border: none;
+    border-radius: 15px;
+    transition: all 0.3s  ease 0s;
+}
+.but-clik{
+    background-color: rgb(180, 118, 3);
+    color: white; 
+}
+.Select-sort{
+    padding: 6px 4px;
+    border-radius: 15px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.6;
+    cursor: pointer;
+    text-align: center;
+}
+.div-sort{
+    margin: 6px 3px 3px 3px ;
+    align-items: center;
+}

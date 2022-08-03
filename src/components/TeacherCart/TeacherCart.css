@@ -1,0 +1,27 @@
+ .teachercart{
+    background-color: white;
+    margin: 10px;
+    border: 0p  x solid;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 2px 6px 18px -9px black;
+    transition: transfom 0.1ms ease-in;
+    cursor: pointer;
+    color: black;
+    border-color: black;
+}
+.img-cart{
+    width: 200px;
+    height: 200px;
+     object-fit:fill;
+  
+}
+
+ .teacher-info{
+    margin-top: auto;
+    padding-top: 5px;
+    text-align: center;
+} 
+.teachercart:hover{
+    transform: scale(0.95);
+} 

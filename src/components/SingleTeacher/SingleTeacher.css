@@ -1,0 +1,32 @@
+.SingleTeacher{
+    display: flex;
+    position: relative;
+    border-style: solid;
+    border-radius: 5px;
+
+    
+}
+.img-cart-single{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
+     object-fit:fill;
+    border-radius: 5px;
+      
+}
+.SingleTeacher-bio{
+    
+    background-color: white;
+    border-radius: 5px;
+    
+   
+}
+.textbio{
+    margin: 5px ;
+    
+}
+.mybio{
+    margin-left: 10px;
+}
